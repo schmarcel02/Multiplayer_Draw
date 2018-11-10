@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server_Library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_Library_jar</output-path>
+    <root id="archive" name="Server_Library.jar">
+      <element id="module-output" name="Server_Library" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ConsoleUtil.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SocketUtil/out/artifacts/ConnectionUtil_jar/ConnectionUtil.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
